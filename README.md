@@ -1,3 +1,2 @@
-# AllocatorMK.github.io
-
-Website, for testing purposes. https://allocatorMK.github.io
+# Github website 
+Website, for testing purposes: https://allocatormk.github.io
